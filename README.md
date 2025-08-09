@@ -28,7 +28,7 @@ Features:
 * Getting public data of post, story, album, Reels, IGTV data and the ability to download content
 * Getting public data of hashtag and location data, as well as a list of posts for them
 * Getting public data of all comments on a post and a list of users who liked it
-* Management of [proxy servers](https://soax.com?afmc=sEysufQI), mobile devices and challenge resolver
+* Management of proxy, mobile devices and challenge resolver
 * Login by username and password, sessionid and support 2FA
 * Managing messages and threads for Direct and attach files
 * Download and upload a Photo, Video, IGTV, Reels, Albums and Stories
@@ -62,9 +62,13 @@ For any other languages (e.g. C++, C#, F#, D, [Golang](https://github.com/subzer
 8. [Build stories](https://subzeroid.github.io/instagrapi/usage-guide/story.html) with custom background, font animation, link sticker and mention users
 9. In the next release, account registration and captcha passing will appear
 
-## Examples of apps that use instagrapi
+## Telegram Bot for Download Posts, Stories and Highlights
 
-* [Telegram Bot for Download Posts, Stories and Highlights](https://t.me/instagram_load_bot)
+* https://t.me/InstaSurfBot
+* https://t.me/InstaBlastBot
+* https://t.me/InstaSavePremiumBot
+* https://t.me/InstaCopierBot
+* https://t.me/InstaMemoBot
 
 ### Installation
 
